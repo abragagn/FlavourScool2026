@@ -1,0 +1,10 @@
+name: flavourschool26
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10,<3.14
+  - root
+  - ipykernel
+  - ipython
+  - jupyterlab
+  - notebook
